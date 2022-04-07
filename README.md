@@ -13,9 +13,11 @@ Now you and your loved ones can experience the crippling and pointless annoyance
 
 Using random and the small bit pf Python I remember now you can be automatically be rejected by a random company that uses these LinkedIn rejections hand curated from my own mailbox.
 
-- Enjoy!
+Enjoy!
 
 
 
 Todo:
-Relearn actual Python so it takes a 'yes' input.
+- ~~Edit to allow any text entry.~~
+- limit employer output to one entry only (currently outputs one employer per char from input).
+- relearn Python so you can be a functioning human again.
