@@ -9,7 +9,7 @@ Well...
 
 Now you and your loved ones can experience the crippling and pointless annoyance of rejection in an instant!
 
-![Screenshot](screenshot.png)
+![In_Action](Rejector.gif)
 
 Using random and the small bit pf Python I remember now you can be automatically be rejected by a random company that uses these LinkedIn rejections hand curated from my own mailbox.
 
